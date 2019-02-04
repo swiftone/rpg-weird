@@ -1,0 +1,35 @@
+3d6 + 2 skills
+
+Skills rated 0-5 (normal)
+Specializations offer a +2, avoid Unfamiliar penalty (-2 ?)
+
+
+Science
+Academics
+Technology
+Comps
+
+Medicine
+
+Endurance
+Might
+Deftness
+Quickness
+
+Stealth
+Persuasion
+Deception
+Charm
+Intimidation
+Negotiation
+
+Melee
+Guns
+Archery
+Throw
+
+Pilot
+Navigation
+Recall
+
+
